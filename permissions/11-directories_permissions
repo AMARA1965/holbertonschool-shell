@@ -1,2 +1,2 @@
 #!/bin/bach
-chmod -R permissions
+chmod -R + a
